@@ -2,7 +2,7 @@
 
 **MDTM** is a small Apex trigger framework for Salesforce. You register handler classes on **Custom Metadata** (`Trigger_Handler__mdt`), ordered and activatable per environment, and call a single line from each trigger: `MDTM.handle()`.
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=ReSourcePro&repo=MDTM&ref=release-production">
+<a href="https://githubsfdeploy.herokuapp.com?owner=ReSourcePro&repo=MDTM&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
